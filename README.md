@@ -1,2 +1,4 @@
 # big-data-kafka
-kafka installation and setup
+
+## what is kafka?🙄🤔
+# Kafka installation:
